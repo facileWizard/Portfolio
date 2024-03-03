@@ -10,9 +10,9 @@ import 'styles/components/footer.css';
 import 'styles/components/mobile-nav.css';
 import 'styles/utils.css';
 
-import mobileNav from 'utils/mobile-nav';
-import darkMode from 'utils/dark-mode';
-import lazyLoading from 'utils/lazy-loading';
+import mobileNav from 'src/utils/mobile-nav';
+import darkMode from 'src/utils/dark-mode';
+import lazyLoading from 'src/utils/lazy-loading';
 
 mobileNav();
 darkMode();
